@@ -16,7 +16,7 @@ An advanced, feature-rich tool designed for brute-forcing cryptographic hashes u
 
 ## **Prerequisites**
 
-- Python 3.x installed on your system.
+- Python 3.10.10 installed on your system.
 - Required libraries: Install the `tqdm` library for progress bars.
   ```bash
   pip install tqdm
