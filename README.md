@@ -1,6 +1,6 @@
 # Advanced Hash Cracker
 
-An advanced, feature-rich tool designed for brute-forcing cryptographic hashes using a provided wordlist. This tool supports various hash algorithms, provides clear feedback, and offers optional multithreading for improved performance. Created to simplify and enhance your hash-cracking experience.
+An advanced designed for brute-forcing cryptographic hashes using a provided wordlist. This tool supports various hash algorithms, provides clear feedback, and offers optional multithreading for improved performance. Created to simplify and enhance your hash-cracking experience.
 
 ---
 
